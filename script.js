@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['106-system_of_a_down--ddevil-oma', '205-system_of_a_down--x-oma', '304-system_of_a_down--boom-oma'];
+const songs = ['su_music', 'su_music', 'su_music'];
 
 // Keep track of song
 let songIndex = 2;
