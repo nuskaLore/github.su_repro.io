@@ -1,1 +1,1 @@
-https://nuskalore.github.io/su_repro.io/
+https://nuskalore.github.io/nsk_repro.io/
